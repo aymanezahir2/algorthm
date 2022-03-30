@@ -27,4 +27,3 @@ function BubleSort(acc){
 
 let array = [5,7,4,2,8]
 
-console.log(BubleSort(array))
